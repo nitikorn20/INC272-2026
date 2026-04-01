@@ -1,4 +1,0 @@
-interface:
-  display_name: "INC272 Course Maintainer"
-  short_description: "Maintain the 6-week INC272 teaching repo"
-  default_prompt: "Use $inc272-course-maintainer to update the INC272-2026 course repository, keeping the 6-week model and mock-simulator workflow consistent."
