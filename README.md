@@ -3,7 +3,7 @@
 
 * * *
 
-[Syllabus](./Syllabus.md) | [Course Outline](./Outline.md) | [Course Orientation](./docs/course-orientation.md) | [Student Quick Start](./docs/student-quick-start.md) | [Setup Guide](./docs/setup.md) | [Exam Blueprint](./docs/exam-blueprint.md) | [Week 03 Readiness Checklist](./docs/week03-readiness-checklist.md) | [Project Guide](./docs/project-guide.md)
+[Syllabus](./Syllabus.md) | [Course Outline](./Outline.md) | [Course Orientation](./docs/course-orientation.md) | [Student Quick Start](./docs/student-quick-start.md) | [Setup Guide](./docs/setup.md) | [Exam Blueprint](./docs/exam-blueprint.md) | [Week 03 Readiness Checklist](./docs/week03-readiness-checklist.md) | [Project Guide](./docs/project-guide.md) | [Release Checklist](./docs/release-checklist.md)
 
 ![Legacy cover](./assets/cover_legacy_2021.png)
 
@@ -49,6 +49,7 @@ Upon successful completion of this course, students should be able to:
 - [Exam Blueprint](./docs/exam-blueprint.md) - topic coverage and question style for the paper-based exam
 - [Week 03 Readiness Checklist](./docs/week03-readiness-checklist.md) - instructor checklist for the first onsite machine check
 - [Project Guide](./docs/project-guide.md) - project scope and evaluation rubric
+- [Release Checklist](./docs/release-checklist.md) - pre-publish checklist before sharing the repository with students
 
 ### Weekly Materials
 
