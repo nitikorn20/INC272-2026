@@ -1,0 +1,76 @@
+# Week 04: Individual Exam and Project Planning
+
+## Week Information
+
+| Item | Information |
+|------|-------------|
+| Date | `27/04/2026` |
+| Format | Onsite |
+| Time | `Monday 09:30` |
+| Main Topic | paper-based exam and project scope confirmation |
+
+* * *
+
+## Session Focus
+
+- paper-based individual exam
+- project scope confirmation
+- post-exam team planning
+
+* * *
+
+## Exam Format
+
+- individual
+- paper-based only
+- conducted onsite
+- no live coding tools required
+
+This format is used to measure actual understanding without depending on coding environments or AI-assisted workflows.
+
+Reference:
+
+- [Exam Blueprint](../docs/exam-blueprint.md)
+
+* * *
+
+## Exam Coverage
+
+The Week 04 exam is limited to the assigned repository materials and examples, especially:
+
+- HTML basics
+- CSS basics
+- JavaScript basics
+- DOM and event logic
+- reading and interpreting assigned examples
+- a small amount of simulator-related browser workflow understanding
+
+The exam is expected to place more weight on `HTML`, `CSS`, and `JavaScript` basics than on simulator-specific details.
+
+* * *
+
+## Suggested Question Types
+
+- read and interpret short code snippets
+- identify or fix small mistakes
+- explain expected browser behavior
+- reason about DOM or event outcomes
+- explain small parts of the simulator interaction flow
+
+* * *
+
+## Project Planning After the Exam
+
+After the exam, each team should:
+
+- confirm a realistic project scope
+- identify the main UI and interaction features
+- decide what can be completed by Week 05
+- decide what should be demonstrated in Week 06
+
+* * *
+
+## Main Output
+
+- paper-based exam submission
+- confirmed project scope for each group

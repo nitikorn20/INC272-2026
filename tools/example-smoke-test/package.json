@@ -1,0 +1,14 @@
+{
+  "name": "inc272-example-smoke-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Smoke test runner for INC272 example pages",
+  "scripts": {
+    "test": "node smoke.js all",
+    "test:week1": "node smoke.js list examples/html/ex01_html_structure/index.html examples/css/ex03_css_external/index.html examples/js/ex02_extjs/index.html",
+    "test:week2": "node smoke.js list examples/apps/web_apps/web01_getting_started/index.html examples/apps/web_apps/web03_psw_led_indicators/index.html examples/apps/web_apps/web04_adc_gauges/index.html examples/apps/web_apps/web05_adc_plotters/index.html"
+  },
+  "devDependencies": {
+    "playwright": "^1.58.2"
+  }
+}
