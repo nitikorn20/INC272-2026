@@ -3,7 +3,7 @@
 
 * * *
 
-[Syllabus](./Syllabus.md) | [Course Outline](./Outline.md) | [Course Orientation](./docs/course-orientation.md) | [Student Quick Start](./docs/student-quick-start.md) | [Setup Guide](./docs/setup.md) | [Exam Blueprint](./docs/exam-blueprint.md) | [Week 03 Readiness Checklist](./docs/week03-readiness-checklist.md) | [Project Guide](./docs/project-guide.md) | [Release Checklist](./docs/release-checklist.md)
+[Syllabus](./Syllabus.md) | [Course Outline](./Outline.md) | [Course Orientation](./docs/course-orientation.md) | [Student Quick Start](./docs/student-quick-start.md) | [Setup Guide](./docs/setup.md) | [Troubleshooting](./docs/troubleshooting.md) | [Exam Blueprint](./docs/exam-blueprint.md) | [Exam Sample Questions](./docs/exam-sample-questions.md) | [Week 03 Readiness Checklist](./docs/week03-readiness-checklist.md) | [Project Guide](./docs/project-guide.md) | [Project Examples](./docs/project-examples.md) | [Release Checklist](./docs/release-checklist.md)
 
 ![Legacy cover](./assets/cover_legacy_2021.png)
 
@@ -46,9 +46,13 @@ Upon successful completion of this course, students should be able to:
 - [Course Orientation](./docs/course-orientation.md) - short orientation for the 2026 course model
 - [Student Quick Start](./docs/student-quick-start.md) - fastest path to get ready before the first onsite week
 - [Setup Guide](./docs/setup.md) - installation and run instructions for Windows and macOS
+- [Troubleshooting](./docs/troubleshooting.md) - common setup and runtime problems with fixes
 - [Exam Blueprint](./docs/exam-blueprint.md) - topic coverage and question style for the paper-based exam
+- [Exam Sample Questions](./docs/exam-sample-questions.md) - sample questions for student exam preparation
 - [Week 03 Readiness Checklist](./docs/week03-readiness-checklist.md) - instructor checklist for the first onsite machine check
-- [Project Guide](./docs/project-guide.md) - project scope and evaluation rubric
+- [Project Guide](./docs/project-guide.md) - project scope, submission format, and evaluation rubric
+- [Project Examples](./docs/project-examples.md) - example project ideas and scope guidance
+- [Project README Template](./docs/project-readme-template.md) - Markdown template for the required project documentation
 - [Release Checklist](./docs/release-checklist.md) - pre-publish checklist before sharing the repository with students
 
 ### Weekly Materials
@@ -68,7 +72,7 @@ This course uses the following tools and technologies:
 
 - Node.js
 - Visual Studio Code
-- Chrome, Edge, or another modern browser
+- Chrome 110+, Edge 110+, or another modern browser (Firefox 110+ also supported)
 - HTML
 - CSS
 - JavaScript

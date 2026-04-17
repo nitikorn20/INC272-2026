@@ -9,7 +9,7 @@ Use the OS-specific guides for full instructions:
 
 - Node.js
 - Visual Studio Code or equivalent
-- Chrome, Edge, or another modern browser
+- Chrome 110+, Edge 110+, Firefox 110+, or another modern browser
 - optional: VS Code Live Server
 
 ## Minimal Setup Path

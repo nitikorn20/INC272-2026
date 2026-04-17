@@ -19,6 +19,17 @@
 
 * * *
 
+## Suggested Session Flow
+
+| Time | Activity |
+|------|----------|
+| 09:30 – 09:40 | Attendance and final setup time |
+| 09:40 – 11:30 | Group presentations and demos (rotating) |
+| 11:30 – 11:50 | Repository submission confirmation |
+| 11:50 – 12:00 | Closing remarks |
+
+Allocate roughly 10–15 minutes per group including demo and brief Q&A. Adjust based on the number of groups.
+
 ## Final Presentation Expectations
 
 Each group should be ready to:
@@ -32,12 +43,18 @@ Each group should be ready to:
 
 ## Submission Requirements
 
-Each group should submit:
+Each group must submit via **LEB2** during this session:
 
-- the final project repository
-- a project `README`
-- any short supporting notes required by the instructor
-- the final demo or presentation during class
+- the project folder (uploaded or linked)
+- a `README.md` file inside the project folder (use the template in `docs/project-readme-template.md`)
+- **GitHub URL** (optional — submit for bonus points if the repository is public)
+
+### GitHub Bonus
+
+If your group pushed the project to a public GitHub repository, submit the URL via LEB2 during this session to receive bonus points. The instructor will review the latest state of the repository.
+
+Not familiar with GitHub? Watch this short tutorial before Week 06:
+[GitHub for Beginners — Push your project](https://www.youtube.com/watch?v=Oaj3RBIoGFc&t=653s)
 
 * * *
 

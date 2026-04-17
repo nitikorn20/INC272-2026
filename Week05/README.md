@@ -20,31 +20,30 @@
 
 * * *
 
-## In-class Expectations
+## Session Format
 
-Each team should continue building the project and use the class session to:
+Week 05 is an independent work week. There is no required class session.
 
-- resolve blockers
-- confirm core features
-- improve reliability
-- prepare a feasible demo for Week 06
+Students work on their group project on their own time and are expected to arrive at Week 06 with a working demo ready to present.
 
 * * *
 
-## Checkpoint Review
+## Student Expectations
 
-During the checkpoint, each team should be able to show:
+Each team should use this week to:
 
-- a working partial implementation
-- the main monitoring or control flow
-- progress toward the final demo
-- a clear plan for the remaining work
+- build the main features of the project
+- test the monitoring and control flow end-to-end
+- prepare the project repository for submission
+- rehearse the demo
 
 * * *
 
 ## Recommended References
 
 - [Project Guide](../docs/project-guide.md)
+- [Project Examples](../docs/project-examples.md)
+- [Troubleshooting](../docs/troubleshooting.md)
 - `examples/apps/web_apps/web04_adc_gauges`
 - `examples/apps/web_apps/web05_adc_plotters`
 - `examples/apps/web_apps/web06_knob_pwm`
@@ -53,5 +52,4 @@ During the checkpoint, each team should be able to show:
 
 ## Main Output
 
-- checkpoint update
-- remaining task plan for the final demo
+- a working project demo ready to present at Week 06

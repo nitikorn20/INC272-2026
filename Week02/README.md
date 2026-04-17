@@ -55,6 +55,7 @@ npm start
 Expected result:
 
 - the mock hardware server runs at `ws://127.0.0.1:3000/ecclab`
+- the terminal shows `[CONNECT]`, `[RX]`, and `[TX]` lines when a browser connects and sends commands — use these to follow what is happening
 
 ### 2. Start a static file server
 

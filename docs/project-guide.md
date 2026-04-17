@@ -43,8 +43,32 @@ Projects should normally include:
 - a clear interface layout
 - at least one monitoring element
 - at least one control element
+- at least two simulator features (e.g. LED + ADC, PSW + LED)
 - visible feedback for user actions
 - readable code organization
+
+* * *
+
+## Submission Format
+
+Each group submits a project folder containing:
+
+- `index.html` — the main application page
+- `main.js` — the application logic
+- `README.md` — project documentation (see template below)
+- any additional files used by the project (CSS, images, etc.)
+
+The `README.md` must be written in Markdown. A template is provided at [`docs/project-readme-template.md`](./project-readme-template.md). Copy it into the project folder, fill in every section, and remove the instruction line at the top.
+
+### GitHub Bonus
+
+Groups that push their project to a public GitHub repository receive bonus points.
+
+- The repository must be **public** so the instructor can access it without login.
+- Submit the repository URL via **LEB2 during Week 06**.
+- The instructor will review the latest state of the repository at the time of submission. Commit history is not evaluated.
+
+To learn how to push a project to GitHub, watch the tutorial linked in the Week 06 README.
 
 * * *
 

@@ -75,7 +75,13 @@ Option B: Python simple server
 python -m http.server 8000
 ```
 
-## 7. Test the examples
+## 7. Confirm browser version
+
+Use Chrome 110+, Edge 110+, or Firefox 110+. Check your version at `Settings → About`.
+
+Older browsers may not support the WebSocket and DOM APIs used in the course examples.
+
+## 8. Test the examples
 
 Start with:
 
@@ -86,7 +92,7 @@ Start with:
 - `examples/apps/web_apps/web03_psw_led_indicators/index.html`
 - `examples/apps/web_apps/web04_adc_gauges/index.html`
 
-## 8. Expected result
+## 9. Expected result
 
 - the basic examples open without browser errors
 - the web app examples connect while the mock server is running

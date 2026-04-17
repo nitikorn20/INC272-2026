@@ -1,5 +1,9 @@
+// Web App 02 — Buttons and LED Control
+// Purpose: create four toggle buttons, each controlling one LED (LED 0–3).
+// Clicking a button sends a toggle command to the simulator.
 
 /*
+// Simple version: separate ON and OFF buttons for one LED.
 function main() {
 
     const link = new WSLink();
@@ -34,23 +38,26 @@ function main(){
 
     const link = new WSLink();
 
+    // Button labels and Bootstrap color classes, ordered LED3 → LED0 (displayed left to right)
     const btnTexts = ["LED3",    "LED2",   "LED1",    "LED0"];
     const clsNames = ["success", "danger", "primary", "secondary"];
-
 
     btnTexts.map( (s, i) => {
         new Button({
             text: s,
-            uid:  3-i,
+            uid:  3-i,          // i=0 → uid=3, i=1 → uid=2, i=2 → uid=1, i=3 → uid=0
             className: clsNames[i],
             iconLeft: "lightbulb-o",
             iconRight: "none",
             callback: (b) => {
-                link.ledInv(b.uid);
+                link.ledInv(b.uid); // Toggle the LED matching this button's uid
             }
         });
     } );
 
+    // Alternative ways to write the same loop — shown for reference:
+
+    // forEach version:
     // let id = 3;
     // btnTexts.forEach(txt => {
     //     new Button({
@@ -63,7 +70,7 @@ function main(){
     //     id--;
     // });
 
-
+    // for-loop version:
     // for(let i=0; i<btnTexts.length; i++) {
     //     new Button({
     //         text: btnTexts[i],

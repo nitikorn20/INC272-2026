@@ -31,14 +31,18 @@
 
 * * *
 
-## In-class Flow
+## Suggested Session Flow
 
-1. Check that each student can run the simulator locally.
-2. Check that each student can open the assigned example applications.
-3. Review the structure of the assigned starter apps in class.
-4. Explain the final project brief.
-5. Explain the project grading rubric and expected scope.
-6. Let each group begin defining a project direction.
+| Time | Activity |
+|------|----------|
+| 09:30 – 09:45 | Attendance and machine setup confirmation |
+| 09:45 – 10:30 | Individual readiness checks (instructor circulates) |
+| 10:30 – 10:45 | Brief review of starter app structure as a class |
+| 10:45 – 11:15 | Project brief and rubric explanation |
+| 11:15 – 11:50 | Group discussion: initial project direction |
+| 11:50 – 12:00 | Wrap-up: groups confirm direction verbally |
+
+Adjust timing based on class size and readiness check speed.
 
 * * *
 

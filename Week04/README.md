@@ -59,14 +59,22 @@ The exam is expected to place more weight on `HTML`, `CSS`, and `JavaScript` bas
 
 * * *
 
-## Project Planning After the Exam
+## Suggested Session Flow
 
-After the exam, each team should:
+| Time | Activity |
+|------|----------|
+| 09:30 – 09:35 | Attendance and paper distribution |
+| 09:35 – 11:05 | Individual paper-based exam (90 minutes) |
+| 11:05 – 11:15 | Exam collection |
+| 11:15 – 12:00 | Open Q&A — students may ask questions about the project |
 
-- confirm a realistic project scope
-- identify the main UI and interaction features
-- decide what can be completed by Week 05
-- decide what should be demonstrated in Week 06
+Adjust timing based on actual exam duration announced by the instructor.
+
+## After the Exam
+
+The project brief, scope guidance, and rubric were already explained in Week 03. No additional structured planning session is required.
+
+After the exam, students are free to ask the instructor any remaining questions about the project before working independently in Week 05.
 
 * * *
 

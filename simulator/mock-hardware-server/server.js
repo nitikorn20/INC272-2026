@@ -5,7 +5,7 @@ const PATH = "/ecclab";
 
 const state = {
   leds: [0, 0, 0, 0],
-  psw: [0, 1, 0, 1],
+  psw: [0, 0, 0, 0],
   adc: [512, 640, 768, 896],
   prevAdc: [512, 640, 768, 896],
   pwm: Array.from({ length: 4 }, () => ({
@@ -14,11 +14,6 @@ const state = {
     phase: 0,
     enabled: 0,
   })),
-  buzzer: {
-    enabled: 0,
-    frequency: 0,
-    duration: 0,
-  },
   tick: 0,
 };
 
@@ -138,13 +133,6 @@ function handlePwm(parts) {
   return `ok: pwm,${id},${mode},${value}`;
 }
 
-function handleBuzzer(parts) {
-  state.buzzer.enabled = 1;
-  state.buzzer.frequency = toFloat(parts[1], 0);
-  state.buzzer.duration = toFloat(parts[2], 0);
-  return "ok: buz";
-}
-
 function handleCommand(raw) {
   const parts = raw.trim().replace(/\r?\n/g, "").split(",");
   const cmd = (parts[0] || "").trim().toLowerCase();
@@ -158,8 +146,6 @@ function handleCommand(raw) {
       return handleAdc(parts);
     case "pwm":
       return handlePwm(parts);
-    case "buz":
-      return handleBuzzer(parts);
     case "det":
       return "ok: det";
     case "fls":
@@ -174,6 +160,9 @@ function handleCommand(raw) {
 }
 
 server.on("connection", (ws) => {
+  const clientCount = server.clients.size;
+  console.log(`[CONNECT] client connected (${clientCount} active)`);
+
   ws.send("ok: connected");
 
   ws.on("message", (message) => {
@@ -183,8 +172,15 @@ server.on("connection", (ws) => {
       return;
     }
 
+    console.log(`[RX] ${raw}`);
     const response = handleCommand(raw);
+    console.log(`[TX] ${response}`);
     ws.send(response);
+  });
+
+  ws.on("close", () => {
+    const clientCount = server.clients.size;
+    console.log(`[DISCONNECT] client disconnected (${clientCount} active)`);
   });
 });
 

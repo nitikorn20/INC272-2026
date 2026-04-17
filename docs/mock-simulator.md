@@ -106,6 +106,19 @@ ok: buz
 - LED and PWM commands update internal simulator state.
 - The simulator favors predictability and teaching clarity over physical realism.
 
+## Server Logging
+
+The server prints the following to the terminal while running:
+
+| Line | Meaning |
+|------|---------|
+| `[CONNECT] client connected (N active)` | a browser has connected |
+| `[DISCONNECT] client disconnected (N active)` | a browser has disconnected |
+| `[RX] <command>` | a command received from the browser |
+| `[TX] <response>` | the response sent back to the browser |
+
+Automatic telemetry (PSW, ADC, LED broadcast every 500 ms) is not logged to keep the terminal readable.
+
 ## Instructor Guidance
 
 - Use this simulator as the default demo backend.
