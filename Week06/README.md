@@ -15,6 +15,7 @@
 
 - final project demonstration
 - group presentation
+- individual Q&A (per student)
 - repository submission
 
 * * *
@@ -24,11 +25,13 @@
 | Time | Activity |
 |------|----------|
 | 09:30 – 09:40 | Attendance and final setup time |
-| 09:40 – 11:30 | Group presentations and demos (rotating) |
-| 11:30 – 11:50 | Repository submission confirmation |
+| 09:40 – 11:00 | Group presentations and demos (rotating) |
+| 11:00 – 11:40 | Individual Q&A (instructor asks each student separately) |
+| 11:40 – 11:50 | Repository submission confirmation via LEB2 |
 | 11:50 – 12:00 | Closing remarks |
 
-Allocate roughly 10–15 minutes per group including demo and brief Q&A. Adjust based on the number of groups.
+Allocate roughly 10–15 minutes per group for the demo. Adjust based on the number of groups.
+Individual Q&A is conducted after all demos. Each student is asked 1–2 short questions about the project.
 
 ## Final Presentation Expectations
 
@@ -66,6 +69,7 @@ The final project grade mainly depends on:
 - technical correctness
 - interface quality
 - code and repository quality
+- individual Q&A (each student is asked separately)
 - clarity of the final demo
 
 See [Project Guide](../docs/project-guide.md) for the internal rubric.

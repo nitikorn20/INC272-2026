@@ -78,7 +78,7 @@ To learn how to push a project to GitHub, watch the tutorial linked in the Week 
 |------|---------|
 | Week 03 | project brief and rubric explanation |
 | Week 04 | scope confirmation after the exam |
-| Week 05 | implementation checkpoint |
+| Week 05 | independent work (no class) |
 | Week 06 | final demo and presentation |
 
 * * *
@@ -93,7 +93,7 @@ The final project is one main assessment category worth `70%` of the course grad
 | technical correctness | `25%` |
 | interface design and usability | `15%` |
 | code and repository quality | `10%` |
-| checkpoint progress | `10%` |
+| individual Q&A | `10%` |
 | final demo and presentation | `30%` |
 
 * * *
@@ -119,6 +119,16 @@ The final project is one main assessment category worth `70%` of the course grad
 
 - Is the project structure manageable?
 - Are file organization and naming clear enough to follow?
+
+### Individual Q&A
+
+Conducted during Week 06. The instructor asks each student individually about the project.
+
+- Can the student explain what their part of the project does?
+- Can the student describe how the simulator is connected?
+- Can the student explain a specific function or UI element when asked?
+
+Each student is asked separately. Answers should reflect individual understanding of the work submitted.
 
 ### Demo Quality
 

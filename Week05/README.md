@@ -5,18 +5,9 @@
 | Item | Information |
 |------|-------------|
 | Date | `04/05/2026` |
-| Format | Onsite |
-| Time | `Monday 09:30` |
-| Main Topic | guided implementation and project checkpoint |
-
-* * *
-
-## Session Focus
-
-- group implementation
-- technical troubleshooting
-- checkpoint feedback
-- demo readiness review
+| Format | — |
+| Time | — |
+| Main Topic | independent project work |
 
 * * *
 
