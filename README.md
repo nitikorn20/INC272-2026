@@ -3,7 +3,7 @@
 
 * * *
 
-[Syllabus](./Syllabus.md) | [Course Outline](./Outline.md) | [Course Orientation](./docs/course-orientation.md) | [Student Quick Start](./docs/student-quick-start.md) | [Setup Guide](./docs/setup.md) | [Troubleshooting](./docs/troubleshooting.md) | [Exam Blueprint](./docs/exam-blueprint.md) | [Exam Sample Questions](./docs/exam-sample-questions.md) | [Week 03 Readiness Checklist](./docs/week03-readiness-checklist.md) | [Project Guide](./docs/project-guide.md) | [Project Examples](./docs/project-examples.md) | [Release Checklist](./docs/release-checklist.md)
+[Syllabus](./Syllabus.md) | [Course Outline](./Outline.md) | [Student Quick Start](./docs/student-quick-start.md) | [Setup Guide](./docs/setup.md) | [Troubleshooting](./docs/troubleshooting.md) | [Exam Blueprint](./docs/exam-blueprint.md) | [Exam Sample Questions](./docs/exam-sample-questions.md) | [Week 03 Readiness Checklist](./docs/week03-readiness-checklist.md) | [Project Guide](./docs/project-guide.md) | [Project Examples](./docs/project-examples.md) | [Release Checklist](./docs/release-checklist.md)
 
 ![Legacy cover](./assets/cover_legacy_2021.png)
 
@@ -43,7 +43,6 @@ Upon successful completion of this course, students should be able to:
 
 - [Syllabus](./Syllabus.md) - formal course information, assessment rules, and policies
 - [Course Outline](./Outline.md) - 6-week teaching flow and deliverables
-- [Course Orientation](./docs/course-orientation.md) - short orientation for the 2026 course model
 - [Student Quick Start](./docs/student-quick-start.md) - fastest path to get ready before the first onsite week
 - [Setup Guide](./docs/setup.md) - installation and run instructions for Windows and macOS
 - [Troubleshooting](./docs/troubleshooting.md) - common setup and runtime problems with fixes
@@ -192,8 +191,8 @@ Students should expect questions such as:
 
 ### Phase 3: Project Implementation and Demo
 
-- Week 05: guided implementation and checkpoint review
-- Week 06: final presentation, demo, and repository submission
+- Week 05: independent work (no class)
+- Week 06: final demo, individual Q&A, and repository submission
 - outcome: each group delivers a working browser-based monitoring or control application
 
 * * *

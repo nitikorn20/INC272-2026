@@ -6,22 +6,14 @@ Use this page if you want the shortest route to become ready for `INC272-2026`.
 
 * * *
 
-## Step 1: Read the Orientation
-
-Start here:
-
-- [Course Orientation](./course-orientation.md)
-
-* * *
-
-## Step 2: Choose Your Setup Guide
+## Step 1: Choose Your Setup Guide
 
 - [Windows Setup](./setup-windows.md)
 - [macOS Setup](./setup-macos.md)
 
 * * *
 
-## Step 3: Complete Week 01
+## Step 2: Complete Week 01
 
 Goal:
 
@@ -44,7 +36,7 @@ Useful companion PDFs:
 
 * * *
 
-## Step 4: Complete Week 02
+## Step 3: Complete Week 02
 
 Goal:
 
@@ -59,7 +51,7 @@ Main files:
 
 * * *
 
-## Step 5: Be Ready for Week 03
+## Step 4: Be Ready for Week 03
 
 The first onsite session is:
 
