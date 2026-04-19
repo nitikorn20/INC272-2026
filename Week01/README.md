@@ -25,7 +25,6 @@
 
 Read:
 
-- [Course Orientation](../docs/course-orientation.md)
 - [Student Quick Start](../docs/student-quick-start.md)
 
 Choose one setup guide:
@@ -59,9 +58,9 @@ Use the PDFs as companion references only. The current repository documentation 
 
 ## Required Work
 
-### 1. Read the course orientation
+### 1. Read the Student Quick Start
 
-Use [Course Orientation](../docs/course-orientation.md) to understand the course model, assessment structure, and onsite timeline.
+Use [Student Quick Start](../docs/student-quick-start.md) to understand the course setup and what to prepare before Week 03.
 
 ### 2. Watch the assigned Week 01 videos
 

@@ -31,7 +31,7 @@ This is a project-oriented course. The heaviest assessment weight is intentional
 | Week 02 | 13/04/2026 | Online |
 | Week 03 | 20/04/2026 | Onsite |
 | Week 04 | 27/04/2026 | Onsite |
-| Week 05 | 04/05/2026 | Onsite |
+| Week 05 | 04/05/2026 | — |
 | Week 06 | 11/05/2026 | Onsite |
 
 * * *
@@ -91,7 +91,7 @@ The project category may internally consider:
 
 - fit to the project brief
 - scope confirmation
-- checkpoint progress
+- individual Q&A
 - implementation quality
 - presentation and demo quality
 - repository and documentation quality

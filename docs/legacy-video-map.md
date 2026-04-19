@@ -16,7 +16,7 @@ Use these as background support for:
 
 ## Week 1 Orientation
 
-- Use [Course Orientation](./course-orientation.md) instead of the legacy introduction video.
+- Use [Student Quick Start](./student-quick-start.md) instead of the legacy introduction video.
 
 ## Week 2 and Week 3 Selective Reference
 

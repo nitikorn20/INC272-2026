@@ -22,7 +22,6 @@ ws://127.0.0.1:3000/ecclab
 - `4 push switches`
 - `4 ADC channels`
 - `4 PWM channels`
-- `1 buzzer state`
 
 ## Supported Commands
 
@@ -85,18 +84,6 @@ Typical response:
 
 ```text
 ok: pwm,<id>,<mode>,<value>
-```
-
-### Buzzer
-
-```text
-buz,<args...>
-```
-
-Typical response:
-
-```text
-ok: buz
 ```
 
 ## Behavioral Model
